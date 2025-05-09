@@ -1,4 +1,7 @@
 # 💸 Conversor de Cambio | Java Backend Challenge
+
+![Conversao de Cambio  Banner](https://github.com/user-attachments/assets/aa711cef-7c31-4a1d-a57b-dc6acb2f36ba)
+
 Esta é a resolução de um desafio da formação Java e Orientação a Objetos do bootcamp da Alura & Oracle. 
 O projeto consome a API **ExchangeRate-API** e faz a conversão entre os dois câmbios escolhidos pelo usuário.
 
